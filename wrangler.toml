@@ -1,0 +1,11 @@
+name = "gold-miner-api"
+main = "src/index.js"
+compatibility_date = "2026-03-22"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "gold-miner-db"
+database_id = "9f43dad5-1e9d-4a6f-849d-42aeaeab6d73"
+
+[vars]
+GOOGLE_CLIENT_ID = "679234027308-24hi89l0ujpu2cmamdufbnm144hog79s.apps.googleusercontent.com"
